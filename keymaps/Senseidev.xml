@@ -1,0 +1,65 @@
+<keymap version="1" name="Senseidev" parent="Mac OS X 10.5+">
+  <action id="Android.GenerateSignedApk">
+    <keyboard-shortcut first-keystroke="shift meta alt j" />
+  </action>
+  <action id="Android.RunAndroidSdkManager">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta alt b" />
+  </action>
+  <action id="RunCoverage">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta alt z" />
+  </action>
+</keymap>
